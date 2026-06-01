@@ -112,6 +112,15 @@ QRC was developed using javascript technology too. Please enable javascript to g
       </div>
  
    </div>
+
+<div style="clear:both;margin:auto;">
+<br/><br/><br/>
+</div>
+
+<div style="clear:both;width:100%;height:300px;text-align:center;font-weight:900;background:#d2524c;color:#FFFFFF;">
+<br/><br/><br/><br/><br/><br/>
+To be included in web2qrc let us know by writing to <a href="mailto:info@web2qrc.com" style="color:#000000;">info@web2qrc.com</a>
+</div>
          
   <div id="footerCont" style="clear:both;margin:auto;width:100%;">&#8201;</div>
   <div id="footer" style="clear:both;margin:auto;width:100%;text-align:right;">
