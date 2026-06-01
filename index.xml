@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- processing output
+
+GPL 3 License
+
+Copyright 2021, 2028 NuMode
+
+This file is part of NetStrait.
+
+NetStrait is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+NetStrait is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.  
+ 
+You should have received a copy of the GNU General Public License
+along with NetStrait. If not, see <https://www.gnu.org/licenses/>.
+-->
+
+<?xml-stylesheet type="text/xsl" href="/qrc/index.xsl"?>
+
+<CONTENT>
+  <SITE>NuMode</SITE>
+  <ITEM>
+    <ID>1</ID>
+    <DATE>2026-05-30</DATE>
+    <URL>https://www.numode.eu</URL>
+    <QRCODEURL>https://www.numode.eu/qrc/qrcode1.png</QRCODEURL>
+    <TYPE>qrc</TYPE>
+    <CAT>info</CAT>
+    <INDEX>1</INDEX>
+  </ITEM>
+  <ITEM>
+    <ID>2</ID>
+    <DATE>2026-05-30</DATE>
+    <URL>https://code.numode.eu</URL>
+    <QRCODEURL>https://www.numode.eu/qrc/qrcode2.png</QRCODEURL>
+    <TYPE>qrc</TYPE>
+    <CAT>info</CAT>
+    <INDEX>2</INDEX>
+  </ITEM>
+  <ITEM>
+    <ID>3</ID>
+    <DATE>2026-05-30</DATE>
+    <URL>https://www.numode.eu/en/onpremise.html</URL>
+    <QRCODEURL>https://www.numode.eu/qrc/qrcode3.png</QRCODEURL>
+    <TYPE>qrc</TYPE>
+    <CAT>info</CAT>
+    <INDEX>3</INDEX>
+  </ITEM>
+  <ITEM>
+    <ID>4</ID>
+    <DATE>2026-05-30</DATE>
+    <URL>https://www.numode.eu/en/devtools.html</URL>
+    <QRCODEURL>https://www.numode.eu/qrc/qrcode4.png</QRCODEURL>
+    <TYPE>qrc</TYPE>
+    <CAT>info</CAT>
+    <INDEX>4</INDEX>
+  </ITEM>
+  <ITEM>
+    <ID>5</ID>
+    <DATE>2026-05-30</DATE>
+    <URL>https://hug.numode.eu</URL>
+    <QRCODEURL>https://www.numode.eu/qrc/qrcode5.png</QRCODEURL>
+    <TYPE>qrc</TYPE>
+    <CAT>info</CAT>
+    <INDEX>5</INDEX>
+  </ITEM>
+</CONTENT>
